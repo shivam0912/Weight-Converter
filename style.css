@@ -1,0 +1,28 @@
+body {
+  margin-top: 70px;
+  background: aqua;
+}
+
+.card-success {
+  background: red;
+  color: white;
+}
+
+.card-primary {
+  background: green;
+  color: white;
+}
+
+.card-danger {
+  background: gray;
+  color: white;
+}
+
+.card-stone {
+  background: black;
+  color: white;
+}
+
+.card {
+  padding: 20px;
+}
